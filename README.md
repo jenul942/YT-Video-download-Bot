@@ -1,6 +1,6 @@
 # Youtube Dl bot 😉
-## Prerequisite
-    ffmpeg
+## Created by jenul
+    Helpsinhalen
   
     
 ## install dependencies
